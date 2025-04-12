@@ -12,4 +12,4 @@ Este proyecto utiliza Vue.js y el patrón MVVM para simular combates Pokémon.
 3. Ejecutar el proyecto.
 
 ## Autor
-(Aquí tu nombre o tu alias)
+Lahbib Loukili
