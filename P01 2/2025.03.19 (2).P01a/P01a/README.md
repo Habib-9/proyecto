@@ -1,3 +1,4 @@
+( este es commit 2 donde he agrgegado este archivo )
 # Mi Proyecto de Pokémon
 Este proyecto utiliza Vue.js y el patrón MVVM para simular combates Pokémon.  
 
